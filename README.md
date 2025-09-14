@@ -2,4 +2,4 @@
 <img src="https://komarev.com/ghpvc/?username=nosology&color=blue"
 </p>
 
-  <img width="1080" height="889" alt="Untitled1131_20250823235254" src="https://github.com/user-attachments/assets/742c956f-c1b1-40bd-9877-696684eb82f8" />
+<img width="900" height="843" alt="Untitled1194_20250914074707" src="https://github.com/user-attachments/assets/a111ed5e-6564-473e-9365-1438a1815989" />
